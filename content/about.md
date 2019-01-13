@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-<div class="hero top">
+<div class="hero">
   <div class="container thin">
     <div>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam

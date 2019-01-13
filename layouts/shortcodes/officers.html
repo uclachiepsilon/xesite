@@ -1,0 +1,18 @@
+{{ range $i,$e := $.Site.Data.officers.officers }}
+  <div class="profile {{if (modBool $i 2)}}swap{{end}}">
+    <div class="column photo">
+      <img class="profile-photo" src="{{$e.photo}}" />
+    </div>
+    <div class="column description">
+      <div class="name">
+        <h3>{{$e.name}}</h3>
+      </div>
+      <div class="title">
+        <h4>{{$e.role}}</h4>
+      </div>
+      <div class="bio">
+        {{$e.bio}}
+      </div>
+    </div>
+  </div>
+{{ end }}

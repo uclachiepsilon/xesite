@@ -153,25 +153,31 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
+  height: 64px;
   background-color: #2c5ca3;
   overflow-x: auto;
+
+  & > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1024px;
+    width: 100%;
+
+    & > div {
+      display: flex;
+      align-items: center;
+
+      & > div {
+        padding: 8px;
+      }
+    }
+  }
 }
 
-nav > div {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1024px;
-  width: 100%;
-}
-
-nav > div > div {
-  display: flex;
-  align-items: center;
-}
-
-nav > div > div > div {
-  padding: 8px;
+.main {
+  margin-top: 64px;
+  min-height: 100vh;
 }
 
 /* Frontpage Header */
@@ -180,39 +186,39 @@ nav > div > div > div {
   width: 100%;
   background: no-repeat center center scroll;
   background-size: cover;
-}
 
-.frontpage-header > .overlay {
-  height: 100%;
-  width: 100%;
-  background-color: #00000080;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+  & > .overlay {
+    height: 100%;
+    width: 100%;
+    background-color: #00000080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-.frontpage-header > .overlay > .title {
-  color: #ffffff;
-}
+    & > .title {
+      color: #ffffff;
+    }
+  }
 
-.frontpage-header.first {
-  background-image: url(/img/xelogo.png);
-}
+  &.first {
+    background-image: url(/img/xelogo.png);
+  }
 
-.frontpage-header.second {
-  background-image: url(/img/scholarship.jpg);
-}
+  &.second {
+    background-image: url(/img/scholarship.jpg);
+  }
 
-.frontpage-header.third {
-  background-image: url(/img/character.jpg);
-}
+  &.third {
+    background-image: url(/img/character.jpg);
+  }
 
-.frontpage-header.fourth {
-  background-image: url(/img/practicality.jpg);
-}
+  &.fourth {
+    background-image: url(/img/practicality.jpg);
+  }
 
-.frontpage-header.fifth {
-  background-image: url(/img/construction-site-build-construction-work-159306.jpeg);
+  &.fifth {
+    background-image: url(/img/construction-site-build-construction-work-159306.jpeg);
+  }
 }
 
 /* Page */
@@ -230,10 +236,6 @@ nav > div > div > div {
 
 .container.thin {
   max-width: 768px;
-}
-
-.top {
-  margin-top: 64px;
 }
 
 .profile {
@@ -332,19 +334,19 @@ footer {
   color: #ffffff;
   padding: 32px;
   text-align: center;
-}
 
-footer > .column {
-  width: 25%;
-}
+  & > .column {
+    width: 25%;
+  }
 
-footer a {
-  text-decoration: underline;
-  color: inherit;
-}
+  a {
+    text-decoration: underline;
+    color: inherit;
+  }
 
-footer .title {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700;
-  font-size: 1.25rem;
+  .title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
 }

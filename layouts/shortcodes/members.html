@@ -1,0 +1,8 @@
+{{ range $i,$e := $.Site.Data.members.members }}
+  <div class="card">
+    {{if $e.role}}
+    <div>{{$e.role}}</div>
+    {{end}}
+    <div><h4>{{$e.name}}</h4></div>
+  </div>
+{{ end }}

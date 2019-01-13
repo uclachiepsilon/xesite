@@ -2,7 +2,7 @@
 title: "Join"
 ---
 
-<div class="container thin top">
+<div class="container thin">
   <div class="page-title">
     <h1>
       Join Us
