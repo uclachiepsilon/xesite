@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="assets/xefavicon.ico" />
+    <title>
+      {{ block "title" . }}{{ $.Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}
+    </title>
+    {{ .Hugo.Generator }}
+    {{ $styles := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700,700i" rel="stylesheet">
+  </head>
+  <body>
+    <nav>
+      <div>
+        <div>
+          <div>
+            <a href='{{"/" | relURL}}'><img src="assets/xelogotransparent.png" alt="HTML tutorial" style="width:42px;height:42px;border:0;"></a>
+          </div>
+        </div>
+        <div>
+          <div>
+            <a href='{{"about" | relURL}}'>About</a>
+          </div>
+          <div>
+            <a href='{{"officers" | relURL}}'>Officers</a>
+          </div>
+          <div>
+            <a href='{{"members" | relURL}}'>Members</a>
+          </div>
+          <div>
+            <a href='{{"join" | relURL}}'>Join</a>
+          </div>
+          <div>
+            <a href='{{"events" | relURL}}'>Events</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    {{ block "main" . }}{{ end }}
+    <footer>
+      <div class="column">
+        <div class="title">
+          UCLA Chi Epsilon
+        </div>
+      </div>
+      <div class="column">
+        Email: <a href="mailto:uclaxe@gmail.com">uclaxe@gmail.com</a>
+      </div>
+      <div class="column">
+        &copy; 2019 UCLA Chi Epsilon
+      </div>
+    </footer>
+  </body>
+</html>
