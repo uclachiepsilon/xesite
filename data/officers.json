@@ -1,46 +1,40 @@
 {
   "officers": [
     {
-      "name": "Joe Schmo",
+      "name": "Arya Nanda",
       "role": "President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "bio": "Arya Nanda is a third-year civil engineering major specializing in structural engineering. He has a job working in structural design and construction firm retrofitting laboratories. He plans on pursuing a career in development. When he's not working, Arya likes to fly planes or go surfing.",
+      "photo": "/img/officers/arya.png"
     },
     {
-      "name": "Bob Schmo",
+      "name": "Claire Killian",
       "role": "Vice President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "bio": "Claire Killian is a fourth-year civil engineering major focusing on structural and earthquake engineering. She currently serves as the Vice President of Chi Epsilon, as well as the President of ASCE at UCLA and as Co-Director of Tours for UCLA Engineering Ambassadors. In her free time, Claire likes to listen to music, exercise, watch UCLA or Bay Area sports, play basketball, and make fun memories with friends!",
+      "photo": "/img/officers/claire.JPG"
     },
     {
-      "name": "Bob Schmo",
-      "role": "Vice President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "name": "Yuen Lenh",
+      "role": "Marshal",
+      "bio": "My name is Yuen (pronounced Yen). I’m a Civil Engineering student interested in the environmental track. Outside of engineering, I’m a big fan of penguins, Sam Smith, and the MCU. I also love watching re-runs of Friends and The Office on Netflix.",
+      "photo": "/img/officers/yuen.jpg"
     },
     {
-      "name": "Bob Schmo",
-      "role": "Vice President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "name": "Liz Menendez",
+      "role": "Secretary",
+      "bio": "Liz is a second-year transfer, civil engineering major with a passion for intricate structures. She likes working on Steel Bridge, Seismic Design and Concrete Canoe projects with ASCE. She will graduate in June 2020 and pursue a masters in structural engineering. In her spare time, Liz likes to take dance classes. She actually teaches Flamenco and Ballet as a part time job.",
+      "photo": "/img/officers/liz.jpeg"
     },
     {
-      "name": "Bob Schmo",
-      "role": "Vice President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "name": "Josh Graham",
+      "role": "Treasurer",
+      "bio": "Josh is a fourth-year civil engineering student, focusing in geotechnical design. He is also very interested in pursuing a career in construction management, specifically with projects concerning stadiums and other large sports/entertainment venues. Besides engineering, Josh enjoys being a leader in the Jewish community, as well as playing violin and guitar, and rooting for his favorite New York sports teams!",
+      "photo": "/img/officers/josh.jpeg"
     },
     {
-      "name": "Bob Schmo",
-      "role": "Vice President",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-    },
-    {
-      "name": "Elongate Muskrat",
-      "role": "Chief Technical Officer and Weaboo",
-      "bio": "I like to build spaceships and smoke with Joe Rogan.",
-      "photo": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      "name": "Elizabeth Paz",
+      "role": "Media Director",
+      "bio": "Elizabeth Paz is a third-year Civil Engineering major with an interest in construction and design in hopes of creating a more sustainable future. She spends her time with Engineers Without Borders as a design lead for the Nicaragua School House project. Outside of engineering, Elizabeth enjoys creating abstract art pieces and appreciating the outdoors.",
+      "photo": "/img/officers/elizabeth.jpeg"
     }
   ]
 }

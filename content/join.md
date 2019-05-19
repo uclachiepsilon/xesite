@@ -9,23 +9,10 @@ title: "Join"
     </h1>
   </div>
   <p>
-    Donec a eros est. Cras quis pretium orci, sit amet dapibus augue. Nunc dignissim pharetra arcu et consectetur.
+    Chi Epsilon seeks to foster excellence, connectivity and engagement among those in the civil engineering community to improve our world, and we are always happy to help qualified members join us.
   </p>
   <h3>Qualifications</h3>
   <p>
-    Nunc eget erat erat. Fusce at est in dui maximus tincidunt fermentum ut
-    risus. Sed facilisis nulla vitae lectus malesuada facilisis. Nulla
-    dignissim neque sed libero porttitor, nec scelerisque est lobortis.
-    Duis quis fermentum nunc, eget tristique ipsum. Aenean non ligula
-    metus. Vivamus suscipit lorem sed tincidunt cursus.
-  </p>
-  <h3>Apply here</h3>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porta
-    facilisis vulputate. Duis vulputate elementum lectus, sit amet
-    tristique sapien imperdiet et. Nullam eleifend dapibus convallis. Etiam
-    non purus ipsum. Sed dictum mattis neque, vitae malesuada lectus
-    pulvinar lobortis.
+    The top third of junior- and senior-standing undergraduate civil engineering students at UCLA are eligible to join our society. Ranking is based on a cumulative UCLA-only GPA. Initiation is held in the fall and spring quarters, and eligible candidates who released their contact information to honor societies are notified by e-mail at the beginning of the quarter.  Candidates can accept their offer and begin the quarter-long initiation process. After completing all the requirements, initiates become lifelong Chi Epsilon members.
   </p>
 </div>
-

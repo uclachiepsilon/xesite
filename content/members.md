@@ -8,7 +8,7 @@ title: "Members"
       New Initiates
     </h1>
   </div>
-  <img class="member-photo" src="https://www.sanger.ac.uk/sites/default/files/teichmanngroupcropped.jpg"/>
+  <img class="member-photo" src="/img/initiates.jpg"/>
   <div class="card-row">
     {{<members>}}
   </div>
