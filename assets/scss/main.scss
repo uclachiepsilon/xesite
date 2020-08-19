@@ -61,6 +61,7 @@ h6 {
 }
 h1 {
   font-size: 4rem;
+  text-align: center;
 }
 h2 {
   font-size: 3rem;
@@ -182,7 +183,7 @@ nav {
 
 /* Frontpage Header */
 .frontpage-header {
-  height: 100vh;
+  height: 75vh;
   width: 100%;
   background: no-repeat center center scroll;
   background-size: cover;
@@ -192,32 +193,49 @@ nav {
     width: 100%;
     background-color: #00000080;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
     & > .title {
       color: #ffffff;
+
+      & > p {
+        text-transform: uppercase;
+        text-align: right;
+        font-size: 20px;
+      }
+    }
+
+    & > .mini-title {
+      color: #ffffff;
+      font-size: 75px;
+      text-align: center;
     }
   }
 
   &.first {
-    background-image: url(/img/xelogo.png);
+    background-image: url(/img/EngineeringVI.jpg);
   }
 
   &.second {
     background-image: url(/img/scholarship.jpg);
+    height: 30vh;
   }
 
   &.third {
     background-image: url(/img/character.jpg);
+    height: 30vh;
   }
 
   &.fourth {
     background-image: url(/img/practicality.jpg);
+    height: 30vh;
   }
 
   &.fifth {
     background-image: url(/img/construction-site-build-construction-work-159306.jpeg);
+    height: 30vh;
   }
 }
 
@@ -228,8 +246,8 @@ nav {
 }
 
 .container {
-  width: 100%;
-  max-width: 1024px;
+  width: 95%;
+  // max-width: 1024px;
   padding: 8px;
   margin: auto;
 }
@@ -291,7 +309,7 @@ nav {
 }
 
 .section {
-  padding: 64px 96px;
+  padding: 25px 64px;
   background-color: #dbdbdb;
   border-radius: 8px;
 }
@@ -349,4 +367,38 @@ footer {
     font-weight: 700;
     font-size: 1.25rem;
   }
+}
+
+// <!-- Add to Main Page Header Section -->
+
+.overlay .button {
+  background-color: transparent;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  margin: 0px 15px 0px 15px;
+  color: white;
+  padding: 8px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.overlay a {
+  color: white;
+  text-decoration: none;
+}
+
+.title-buttons {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.section h2 {
+  font-size: 35px;
+}
+
+.section p {
+  font-size: 16px;
 }

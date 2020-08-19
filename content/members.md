@@ -10,6 +10,6 @@ title: "Members"
   </div>
   <img class="member-photo" src="/img/initiates.jpg"/>
   <div class="card-row">
-    {{<members>}}
+  {{<members>}}
   </div>
 </div>
