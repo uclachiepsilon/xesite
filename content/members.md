@@ -5,7 +5,7 @@ title: "Members"
 <div class="container">
   <div class="page-title">
     <h1>
-      New Initiates
+      Members and Alumni
     </h1>
   </div>
   <img class="member-photo" src="/img/initiates.jpg"/>
