@@ -332,6 +332,10 @@ nav a:hover {
   max-width: 768px;
 }
 
+.container-grid {
+  display: grid;
+}
+
 .hero {
   padding: 64px;
   font-size: 3rem;
@@ -424,6 +428,36 @@ nav a:hover {
   }
 }
 
+.memebers-content {
+  grid-area: 1/1;
+  z-index: 2;
+}
+
+.members-background {
+  background-color: #346DC2;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 25vh;
+  width: 100%;
+  grid-area: 1/1;
+  z-index: 1;
+  padding: 0px 0px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: #FFFFFF;
+  text-shadow: 2px 2px #2C5CA3;
+}
+
+.members-container {
+  width: 100%;
+  max-width: 1024px;
+  padding: 8px;
+  margin: auto;
+}
+
 
 /* INITIATES */
 .initiates-background {
@@ -445,10 +479,6 @@ nav a:hover {
 .initiates-content {
   grid-area: 1/1;
   z-index: 2;
-}
-
-.container-grid {
-  display: grid;
 }
 
 .task-grid {
