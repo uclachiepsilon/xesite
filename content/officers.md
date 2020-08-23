@@ -2,7 +2,7 @@
 title: "Officers"
 ---
 
-<div class="container">
+<div class="container thin">
   <div class="page-title">
     <h1>
       Officers
