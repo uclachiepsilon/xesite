@@ -7,11 +7,14 @@
       <div class="name">
         <h3>{{$e.name}}</h3>
       </div>
-      <div class="title">
+      <div class="officer-title">
         <h4>{{$e.role}}</h4>
       </div>
-      <div class="bio">
-        {{$e.bio}}
+      <div class="bio">{{$e.bio}}</div>
+      <div class="officers-button-container">
+        <a href="{{$e.resume}}" target="_blank">
+          <div class="officers-button type1">Resume</div>
+        </a>
       </div>
     </div>
   </div>

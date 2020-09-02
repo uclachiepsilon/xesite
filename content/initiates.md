@@ -2,6 +2,7 @@
 title: "Initiates"
 ---
 <div class="container container-grid">
+  <div class="initiates-background"></div>
     <div class="initiates-content">
       <div class="page-title">
         <h1>Initiate Central</h1>
@@ -39,5 +40,4 @@ title: "Initiates"
         </div>
       </div>
   </div>
-  <div class="initiates-background"></div>
 </div>

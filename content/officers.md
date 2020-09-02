@@ -1,12 +1,11 @@
 ---
 title: "Officers"
 ---
-
+<div class="page-title">
+    <div class="officers-background">
+      <h1>Officers</h1>
+    </div>
+</div>
 <div class="container thin">
-  <div class="page-title">
-    <h1>
-      Officers
-    </h1>
-  </div>
   {{<officers>}}
 </div>

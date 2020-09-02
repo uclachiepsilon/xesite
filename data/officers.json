@@ -1,40 +1,46 @@
 {
   "officers": [
     {
-      "name": "Arya Nanda",
+      "name": "Camryn Lopez",
       "role": "President",
-      "bio": "Arya Nanda is a third-year civil engineering major specializing in structural engineering. He has a job working in structural design and construction firm retrofitting laboratories. He plans on pursuing a career in development. When he's not working, Arya likes to fly planes or go surfing.",
-      "photo": "/img/officers/arya.png"
+      "bio": "Camryn Lopez is a senior civil engineering major interested in pursuing a career in hydrology. She currently works as an intern for a civil engineering company learning about the design of civil infrastructure. Camryn is also passionate about supporting and encouraging women in STEM through the Society of Women Engineers (SWE) and outreach. Outside of the classroom, she enjoys dancing, tennis, and crocheting.",
+      "photo": "/img/officers/camryn.jpg",
+      "resume": "/resume/camryn.pdf"
     },
     {
-      "name": "Claire Killian",
+      "name": "Amaya Hernandez",
       "role": "Vice President",
-      "bio": "Claire Killian is a fourth-year civil engineering major focusing on structural and earthquake engineering. She currently serves as the Vice President of Chi Epsilon, as well as the President of ASCE at UCLA and as Co-Director of Tours for UCLA Engineering Ambassadors. In her free time, Claire likes to listen to music, exercise, watch UCLA or Bay Area sports, play basketball, and make fun memories with friends!",
-      "photo": "/img/officers/claire.JPG"
+      "bio": "Amaya Hernandez is a third-year civil engineering major with an interest in an environmental and materials engineering track.  She hopes to work towards a sustainable future in her career.  Outside of engineering, she likes to exercise, listen to music, and buy new houseplants.",
+      "photo": "/img/officers/amaya.JPG",
+      "resume": "/resume/amaya.pdf"
     },
     {
-      "name": "Yuen Lenh",
+      "name": "Eric Estrada",
       "role": "Marshal",
-      "bio": "My name is Yuen (pronounced Yen). I’m a Civil Engineering student interested in the environmental track. Outside of engineering, I’m a big fan of penguins, Sam Smith, and the MCU. I also love watching re-runs of Friends and The Office on Netflix.",
-      "photo": "/img/officers/yuen.jpg"
+      "bio": "My name is Eric Guillermo Estrada Oajaca and I am currently a fourth-year at UCLA. Aside from being the Marshal to Chi Epsilon, I am also a project director for ASCE’s Environmental Design. My interest lies within water resources engineering and environmental engineering. I hope to remediate pipe-infrastructure and improve water-quality within underprivileged communities. I believe that it is extremely important that we not only take care of our planet but motivate others to become eco-friendly, as well. Outside of engineering, I enjoy exercising, gaming, and exploring new eateries with friends.",
+      "photo": "/img/officers/eric.jpg",
+      "resume": "/resume/eric.pdf"
     },
     {
-      "name": "Liz Menendez",
+      "name": "Kathryn Hoang",
       "role": "Secretary",
-      "bio": "Liz is a second-year transfer, civil engineering major with a passion for intricate structures. She likes working on Steel Bridge, Seismic Design and Concrete Canoe projects with ASCE. She will graduate in June 2020 and pursue a masters in structural engineering. In her spare time, Liz likes to take dance classes. She actually teaches Flamenco and Ballet as a part time job.",
-      "photo": "/img/officers/liz.jpeg"
+      "bio": "Kathryn is a second-year civil engineering major with plans to follow an environmental or structural focus. She is also an Assistant Project Manager for UCLA ASCE's Steel Bridge. One of Kathryn's main goals is to educate and involve herself in more civil engineering and sustainable projects outside of the classroom. She enjoys browsering for stationery, listening to soundtracks from her favorite games, and going on adventures with friends.",
+      "photo": "/img/officers/kathryn.JPG",
+      "resume": "/resume/kathryn.pdf"
     },
     {
-      "name": "Josh Graham",
+      "name": "Nathan Vardas",
       "role": "Treasurer",
-      "bio": "Josh is a fourth-year civil engineering student, focusing in geotechnical design. He is also very interested in pursuing a career in construction management, specifically with projects concerning stadiums and other large sports/entertainment venues. Besides engineering, Josh enjoys being a leader in the Jewish community, as well as playing violin and guitar, and rooting for his favorite New York sports teams!",
-      "photo": "/img/officers/josh.jpeg"
+      "bio": "Nathan is a third-year civil engineering major interested in pursuing a career in transportation engineering. He currently serves as the Treasurer of Chi Epsilon, as well as Co-Project Manager for ASCE and ITE. Outside of engineering, he enjoys watching and playing basketball, exploring LA, reading, and listening to film music.",
+      "photo": "/img/officers/nathan.jpg",
+      "resume": "/resume/nathan.pdf"
     },
     {
-      "name": "Elizabeth Paz",
-      "role": "Media Director",
-      "bio": "Elizabeth Paz is a third-year Civil Engineering major with an interest in construction and design in hopes of creating a more sustainable future. She spends her time with Engineers Without Borders as a design lead for the Nicaragua School House project. Outside of engineering, Elizabeth enjoys creating abstract art pieces and appreciating the outdoors.",
-      "photo": "/img/officers/elizabeth.jpeg"
+      "name": "Haochen Sun",
+      "role": "PDC Chair",
+      "bio": "I am a fourth-year civil engineering major focusing on structural engineering. I am currently attending Professor Burton’s research group about future sustainable buildings. Outside of the engineering, I love Chinese calligraphy, basketball, music, and food.",
+      "photo": "/img/officers/haochen.jpg",
+      "resume": "/resume/haochen.pdf"
     }
   ]
 }
