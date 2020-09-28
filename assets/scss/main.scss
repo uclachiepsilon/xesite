@@ -628,7 +628,10 @@ nav a:hover {
   & h2 {
     font-family: 'Pathway Gothic One', sans-serif;
     text-align: center;
-    text-decoration-line: underline;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    text-shadow: 3px 3px #C1F0FF;
+    // text-decoration-line: underline;
   }
 }
 
@@ -661,12 +664,36 @@ nav a:hover {
 .year-container {
   display: grid;
   grid-template-columns: 50% 50%;
+  grid-column-gap: 50px;
   margin: 15px 0px;
-  text-align: center;
+  text-align: left;
 
   & h3 {
     font-family: 'Pathway Gothic One', sans-serif;
     text-decoration-line: underline;
+    letter-spacing: 2px;
+  }
+
+  & h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline;
+    float: left;
+    margin: 0px 0px;
+    padding: 0px 0px;
+  }
+
+  & h5 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: inline;
+    float: right;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px;
   }
 }
 
@@ -674,12 +701,30 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   grid-column: 1 / 2;
+
+  & div {
+    align-items: center;
+  }
 }
 
 .spring-container {
   display: flex;
   flex-direction: column;
   grid-column: 2 / 3;
+
+  & div {
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .year-container {
+    display: block;
+
+    & .fall-container {
+      margin-bottom: 20px;
+    }
+  }
 }
 
 /* INITIATES */
