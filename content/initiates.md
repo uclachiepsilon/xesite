@@ -12,7 +12,7 @@ title: "Initiates"
         <a href="https://docs.google.com/spreadsheets/d/13sj2Z5V9Ejz9NWJROc8guA-SIM5Vautss2sctHfUWoc/edit?usp=sharing" target="_blank">Check Progress</a>
       </div>
       <div class="status-button">
-        <a href="https://my.ucla.edu/" target="_blank">Detailed Instructions</a>
+        <a href="https://docs.google.com/document/d/1xX3Dj-5JJMrnp0VSgUdfeV9OI8M5NL8KXtq8mjKWSxo/edit?usp=sharing" target="_blank">Detailed Instructions</a>
       </div>
     </div>
     <h5>Refer to "Initiation Instructions and Guidelines" Document—linked above—for detailed guidance and information about each event and task. <br>All emails should be directed to uclaxe@gmail.com. <br>Please inform our Marshal about completion of tasks that do not require an email (Exam Uploads and Dues). <br>Feel free to reach out to any of our Officers for any concerns or questions!</h5>
