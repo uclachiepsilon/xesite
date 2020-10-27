@@ -31,7 +31,7 @@ title: "Initiates"
         </div>
         <div class="task-card">
           <h3>Initiation</h3>
-          <h4>12/03 @ 6:15-8:00 PM</h4>
+          <h4>12/03 @ 7-8 PM</h4>
           <p>Zoom Link in Email</p>
         </div>
       </div>
@@ -53,19 +53,24 @@ title: "Initiates"
         <div class="task-card">
           <h3>Dues $125</h3>
           <h4>Send by 10/31</h4>
-          <p>Send to TBD</p>
+          <p>Send to Venmo</p>
         </div>
         <div class="task-card">
           <h3>Fundraiser Proposal</h3>
           <h4>Email by 10/31</h4>
           <p>Virtual Fundraiser Logistics <br>(See Detailed Instructions)</p>
         </div>
+        <div class="task-card">
+          <h3>Big Interview</h3>
+          <h4>Email by 11/28</h4>
+          <p>Small Summary in Email</p>
+        </div>
       </div>
       <div class="title-d"><h2>Practicality</h2></div>
       <div class="container-d">
         <div class="task-card">
           <h3>Candidate Interview</h3>
-          <h4>10/22 @ 6:15-7:15 PM</h4>
+          <h4>10/22 @ 7-8 PM</h4>
           <p>Sign Up and Zoom Link in Email</p>
         </div>
         <div class="task-card">
@@ -83,12 +88,12 @@ title: "Initiates"
       <div class="container-e">
         <div class="task-card">
           <h3>Halloween Social</h3>
-          <h4>10/29 @ 6:15-8:00 PM</h4>
+          <h4>10/29 @ 7-8 PM</h4>
           <p>Zoom Link in Email</p>
         </div>
         <div class="task-card">
           <h3>Talent Show Video</h3>
-          <h4>11/12 @ 6:15-8:00 PM</h4>
+          <h4>11/12 @ 7-8 PM</h4>
           <p>Submit Videos by 11/5 <br>(See Detailed Instructions)<br>Zoom Link in Email</p>
         </div>
       </div>
