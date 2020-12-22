@@ -15,86 +15,27 @@ title: "Initiates"
         <a href="https://docs.google.com/document/d/1xX3Dj-5JJMrnp0VSgUdfeV9OI8M5NL8KXtq8mjKWSxo/edit?usp=sharing" target="_blank">Detailed Instructions</a>
       </div>
     </div>
-    <h5>Refer to "Initiation Instructions and Guidelines" Document—linked above—for detailed guidance and information about each event and task. <br>All emails should be directed to uclaxe@gmail.com. <br>Please inform our Marshal about completion of tasks that do not require an email (Exam Uploads and Dues). <br>Feel free to reach out to any of our Officers for any concerns or questions!</h5>
-    <div class="test-grid">
-      <div class="title-a"><h2>General</h2></div>
-      <div class="container-a">
-        <div class="task-card">
-          <h3>Orientation Meeting</h3>
-          <h4>10/08 @ 7-8 PM</h4>
-          <p>Zoom Link in Email</p>
-        </div>
-        <div class="task-card">
-          <h3>Bylaws Quiz</h3>
-          <h4>11/06 @ TBD</h4>
-          <p>Zoom Link in Email</p>
-        </div>
-        <div class="task-card">
-          <h3>Initiation</h3>
-          <h4>12/03 @ 7-8 PM</h4>
-          <p>Zoom Link in Email</p>
-        </div>
+    <h5>Refer to "Initiation Instructions and Guidelines" Document—linked above—for detailed guidance and information about each event and task. <br>Direct all emails to uclaxe@gmail.com. <br>For tasks that do not require an email, please inform our Marshal about the completion of these tasks (e.g. Exam Uploads and Dues). <br>Feel free to reach out to any of our Officers for any concerns or questions!</h5>
+    <div class="tasks-grid">
+      <div class="tasks-title"><h2>General</h2></div>
+      <div class="tasks-container">
+        {{<general_taskcards>}}
       </div>
-      <div class="title-b"><h2>Scholarship</h2></div>
-      <div class="container-b">
-        <div class="task-card">
-          <h3>Graduate Program</h3>
-          <h4>Email by 11/06</h4>
-          <p>Half-Page Summary of Research <br>(See Detailed Instructions)</p>
-        </div>
-        <div class="task-card">
-          <h3>Upload an Exam</h3>
-          <h4>To Dropbox by 11/06</h4>
-          <p>Dropbox Link in Email</p>
-        </div>
+      <div class="tasks-title"><h2>Scholarship</h2></div>
+      <div class="tasks-container">
+        {{<scholarship_taskcards>}}
       </div>
-      <div class="title-c"><h2>Character</h2></div>
-      <div class="container-c">
-        <div class="task-card">
-          <h3>Dues $125</h3>
-          <h4>Send by 10/31</h4>
-          <p>Send to Venmo</p>
-        </div>
-        <div class="task-card">
-          <h3>Fundraiser Proposal</h3>
-          <h4>Email by 10/31</h4>
-          <p>Virtual Fundraiser Logistics <br>(See Detailed Instructions)</p>
-        </div>
-        <div class="task-card">
-          <h3>Big Interview</h3>
-          <h4>Email by 11/28</h4>
-          <p>Small Summary in Email</p>
-        </div>
+      <div class="tasks-title"><h2>Character</h2></div>
+      <div class="tasks-container">
+        {{<character_taskcards>}}
       </div>
-      <div class="title-d"><h2>Practicality</h2></div>
-      <div class="container-d">
-        <div class="task-card">
-          <h3>Candidate Interview</h3>
-          <h4>10/22 @ 7-8 PM</h4>
-          <p>Sign Up and Zoom Link in Email</p>
-        </div>
-        <div class="task-card">
-          <h3>Internship App</h3>
-          <h4>Email by 11/21</h4>
-          <p>Details of Application <br>(See Detailed Instructions)</p>
-        </div>
-        <div class="task-card">
-          <h3>Prof Dev Event</h3>
-          <h4>Email by 11/28</h4>
-          <p>Key Takeaway of Event<br>(See Detailed Instructions)</p>
-        </div>
+      <div class="tasks-title"><h2>Practicality</h2></div>
+        <div class="tasks-container">
+        {{<practicality_taskcards>}}
       </div>
-      <div class="title-e"><h2>Sociability</h2></div>
-      <div class="container-e">
-        <div class="task-card">
-          <h3>Halloween Social</h3>
-          <h4>10/29 @ 7-8 PM</h4>
-          <p>Zoom Link in Email</p>
-        </div>
-        <div class="task-card">
-          <h3>Talent Show Video</h3>
-          <h4>11/12 @ 7-8 PM</h4>
-          <p>Submit Videos by 11/5 <br>(See Detailed Instructions)<br>Zoom Link in Email</p>
+      <div class="tasks-title"><h2>Sociability</h2></div>
+      <div class="tasks-container">
+        {{<sociability_taskcards>}}
         </div>
       </div>
     </div>

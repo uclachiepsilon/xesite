@@ -16,6 +16,19 @@ title: "Members"
     <hr>
       <div class="year-container">
         <div class="fall-container">
+          <h3>Fall 2020</h3>
+          <div><h4>Ali Shumaila</h4><h5>Class of 2021</h5></div>
+          <div><h4>Amy Zhou</h4><h5>Class of 2023</h5></div>
+          <div><h4>Justin Ehrenberger</h4><h5>Class of 2022</h5></div>
+          <div><h4>Tiffany Choi</h4><h5>Class of 2023</h5></div>
+        </div>
+        <div class="spring-container">
+          <h3>Spring 2021</h3>
+        </div>
+      </div>
+    <hr>
+      <div class="year-container">
+        <div class="fall-container">
           <h3>Fall 2019</h3>
           <div><h4>Eric Estrada</h4><h5>Class of 2021</h5></div>
           <div><h4>Joceline Suhaimi</h4><h5>Class of 2020</h5></div>

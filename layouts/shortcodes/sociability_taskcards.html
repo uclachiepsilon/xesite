@@ -1,0 +1,7 @@
+{{ range $i, $e := $.Site.Data.initiates.sociability_taskcards }}
+  <div class="task-card">
+    <h3>{{$e.title}}</h3>
+    <h4>{{$e.date}}</h4>
+    <p>{{$e.description}}<br>{{$e.extra}}</p>
+  </div>
+{{ end }}

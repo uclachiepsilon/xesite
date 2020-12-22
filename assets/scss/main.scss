@@ -631,13 +631,12 @@ nav a:hover {
     text-transform: uppercase;
     letter-spacing: 6px;
     text-shadow: 3px 3px #C1F0FF;
-    // text-decoration-line: underline;
   }
 }
 
 .card h4 {
   font-family: 'Oswald', sans-serif;
-  font-size: 22px;
+  font-size: 21px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -752,7 +751,10 @@ nav a:hover {
 .initiates-content h2 {
   font-family: 'Pathway Gothic One', sans-serif;
   text-align: center;
-  font-size: 26px;
+  font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 3px 3px #C1F0FF;
 }
 
 .initiates-content h5 {
@@ -848,8 +850,6 @@ nav a:hover {
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
-  // transition-property: background-color, color, border;
-  // transition-duration: 0.4s;
   box-shadow: inset 0px 0px 0px #2F3B47;
   transition: all 0.8s !important;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -858,9 +858,6 @@ nav a:hover {
 }
 
 .status-button:hover {
-  // background-color: transparent;
-  // color: black;
-  // border: 2px solid black;
   box-shadow: inset 0px 80px 0px #2F3B47;
 }
 
@@ -869,10 +866,8 @@ nav a:hover {
     min-width: 100%;
   }
 
-  .test-grid {
+  .tasks-grid {
     max-width: 100%;
-    grid-template-columns: 5px 250px;
-    grid-column-gap: 5px;
 
     & h2 {
       font-size: 25px;
@@ -880,105 +875,23 @@ nav a:hover {
   }
 }
 
-.test-grid {
-  display: grid;
-  grid-template-columns: 5% 95%;
-  grid-auto-rows: minmax(375px, auto);
+.tasks-grid {
   justify-content: center;
   align-items: center;
-  margin: 15px 30px;
-  grid-row-gap: 10px;
-  grid-column-gap: 10px;
+  margin: 20px 30px;
 }
 
-.title-a {
-  grid-column: 1 / 2;
-  grid-row: 1 / 2;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  border-right: solid 2px black;
+.tasks-title {
+  border-bottom: solid 2px black;
 }
 
-.title-b {
-  grid-column: 1 / 2;
-  grid-row: 2 / 3;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  border-right: solid 2px black;
-}
-
-.title-c {
-  grid-column: 1 / 2;
-  grid-row: 3 / 4;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  border-right: solid 2px black;
-}
-
-.title-d {
-  grid-column: 1 / 2;
-  grid-row: 4 / 5;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  border-right: solid 2px black;
-}
-
-.title-e {
-  grid-column: 1 / 2;
-  grid-row: 5 / 6;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  border-right: solid 2px black;
-}
-
-.container-a {
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
+.tasks-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: right;
+  justify-content: center;
   align-items: center;
-}
-
-.container-b {
-  grid-column: 2 / 3;
-  grid-row: 2 / 3;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: right;
-  align-items: center;
-}
-
-.container-c {
-  grid-column: 2 / 3;
-  grid-row: 3 / 4;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: right;
-  align-items: center;
-}
-
-.container-d {
-  grid-column: 2 / 3;
-  grid-row: 4 / 5;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: right;
-  align-items: center;
-}
-
-.container-e {
-  grid-column: 2 / 3;
-  grid-row: 5 / 6;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: right;
-  align-items: center;
+  margin-bottom: 15px;
 }
 
 
