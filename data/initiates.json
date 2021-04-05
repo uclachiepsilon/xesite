@@ -2,80 +2,69 @@
   "general_taskcards": [
     {
       "title": "Orientation Meeting",
-      "date": "10/08 @ 7-8 PM",
+      "date": "04/06 @ 7 - 8 PM",
       "description": "Zoom Link in Email"
     },
     {
-      "title": "Bylaws Quiz",
-      "date": "11/06 @ TBD",
-      "description": "Zoom Link in Email"
-    },
-    {
-      "title": "Initiation",
-      "date": "12/03 @ 7-8 PM",
+      "title": "Induction",
+      "date": "05/27 @ 7 - 8 PM",
       "description": "Zoom Link in Email"
     }
   ],
   "scholarship_taskcards": [
     {
       "title": "Graduate Program",
-      "date": "Email by 11/06",
-      "description": "Half-Page Summary of Research",
+      "date": "Email by 04/30",
+      "description": "Summary of Research",
       "extra": "(See Detailed Instructions)"
     },
     {
       "title": "Upload an Exam",
-      "date": "To Dropbox by 11/06",
+      "date": "To Dropbox by 04/30",
       "description": "Dropbox Link in Email"
     }
   ],
   "character_taskcards": [
     {
       "title": "Dues $125",
-      "date": "Send by 10/31",
-      "description": "Venmo to [__]"
+      "date": "Send by 04/23",
+      "description": "Venmo in Detailed Instructions"
     },
     {
       "title": "Fundraiser Proposal",
-      "date": "Email by 10/31",
-      "description": "Virtual Fundraiser Logistics",
+      "date": "Email by 04/23",
+      "description": "Fundraiser Logistics",
       "extra": "(See Detailed Instructions)"
     },
     {
       "title": "Big Interview",
-      "date": "Email by 11/28",
+      "date": "Email by 05/21",
       "description": "Small Summary in Email"
     }
   ],
   "practicality_taskcards": [
     {
       "title": "Candidate Interview",
-      "date": "10/22 @ 7-8 PM",
+      "date": "04/15 @ 7 - 8 PM",
       "description": "Sign Up and Zoom Link in Email"
     },
     {
-      "title": "Internship App",
-      "date": "Email by 11/21",
-      "description": "Details of Application",
-      "extra": "(See Detailed Instructions)"
-    },
-    {
-      "title": "Prof Dev Event",
-      "date": "Email by 11/28",
-      "description": "Key Takeaway of Event",
-      "extra": "(See Detailed Instructions)"
+      "title": "Apply for XE Board",
+      "date": "Due on 04/30",
+      "description": "Google Form in Detailed Instructions",
+      "extra": "(Alternative Option Available)"
     }
   ],
   "sociability_taskcards":[
     {
-      "title": "Halloween Social",
-      "date": "10/29 @ 7-8 PM",
+      "title": "Game Night",
+      "date": "04/22 @ 7 - 8 PM",
       "description": "Zoom Link in Email"
     },
     {
       "title": "Talent Show Video",
-      "date": "11/12 @ 7-8 PM",
-      "description": "Submit Videos by 11/5",
+      "date": "05/07 @ 7 - 8 PM",
+      "description": "Submit Videos by 04/29",
       "extra": "(See Detailed Instructions)"
     }
   ]

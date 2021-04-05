@@ -8,7 +8,7 @@ title: "Events"
       <h1>Events</h1>
     </div>
     <div class="calendar">
-      <iframe src="https://calendar.google.com/calendar/embed?src=c4c6qls8rsuc8k17co5ei14hj8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+      <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=dWNsYXhlQGdtYWlsLmNvbQ&amp;color=%23D50000&amp;title=UCLA%20XE" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
   </div>
   <div class="events-background"></div>

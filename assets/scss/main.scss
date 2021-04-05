@@ -759,9 +759,14 @@ nav a:hover {
 
 .initiates-content h5 {
   font-family: 'Open Sans Condensed', sans-serif;
-  text-align: center;
+  text-align: left;
   font-size: 22px;
   margin: 5px 10px;
+}
+
+.initiates-instructions {
+  margin-left: 120px;
+  margin-right: 120px;
 }
 
 .task-card {
@@ -793,6 +798,15 @@ nav a:hover {
 }
 
 @media only screen and (max-width: 1280px) {
+  .initiates-content h5 {
+    font-size: 20px;
+  }
+
+  .initiates-instructions {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
   .task-card {
     max-width: 250px;
     padding: 10px 10px;
