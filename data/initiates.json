@@ -14,45 +14,45 @@
   "scholarship_taskcards": [
     {
       "title": "Graduate Program",
-      "date": "Email by 04/30",
-      "description": "Summary of Research",
-      "extra": "(See Detailed Instructions)"
+      "date": "Submit by 04/30",
+      "description": "https://forms.gle/c3bWMZpEXh9ab1EE7"
     },
     {
       "title": "Upload an Exam",
-      "date": "To Dropbox by 04/30",
-      "description": "Dropbox Link in Email"
+      "date": "Submit by 04/30",
+      "description": "https://forms.gle/sJd1zMcJAxa9Qsgm8"
     }
   ],
   "character_taskcards": [
     {
       "title": "Dues $125",
       "date": "Send by 04/23",
-      "description": "Venmo in Detailed Instructions"
+      "description": "Venmo in Detailed Instructions",
+      "link": "https://docs.google.com/document/d/1w93Gs2KqP478XBGmMoSVxuLNkc8x5kXn4TMn3x9-zxQ/edit?usp=sharing"
     },
     {
       "title": "Fundraiser Proposal",
-      "date": "Email by 04/23",
-      "description": "Fundraiser Logistics",
-      "extra": "(See Detailed Instructions)"
+      "date": "Submit by 04/23",
+      "description": "Submission Link",
+      "link": "https://forms.gle/oTqnE7tnZMvT8XQj8"
     },
     {
       "title": "Big Interview",
-      "date": "Email by 05/21",
-      "description": "Small Summary in Email"
+      "date": "Submit by 05/21",
+      "description": "Submission Link",
+      "link": "https://forms.gle/xR9wXckbeK1QbE1t9"
     }
   ],
   "practicality_taskcards": [
     {
       "title": "Candidate Interview",
       "date": "04/15 @ 7 - 8 PM",
-      "description": "Sign Up and Zoom Link in Email"
+      "description": "https://forms.gle/SSkyL8CRWgao57NK8"
     },
     {
-      "title": "Apply for XE Board",
-      "date": "Due on 04/30",
-      "description": "Google Form in Detailed Instructions",
-      "extra": "(Alternative Option Available)"
+      "title": "XE Board App or Professor Interview",
+      "date": "Submit by 04/30",
+      "description": "https://forms.gle/J7yLWw7m83RHKFr86"
     }
   ],
   "sociability_taskcards":[
@@ -64,8 +64,7 @@
     {
       "title": "Talent Show Video",
       "date": "05/07 @ 7 - 8 PM",
-      "description": "Submit Videos by 04/29",
-      "extra": "(See Detailed Instructions)"
+      "description": "Submit Videos by 04/29"
     }
   ]
 }
