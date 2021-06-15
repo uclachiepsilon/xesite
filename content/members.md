@@ -24,6 +24,12 @@ title: "Members"
         </div>
         <div class="spring-container">
           <h3>Spring 2021</h3>
+          <div><h4>Bryant Yang</h4><h5>Class of 2022</h5></div>
+          <div><h4>Jackie Lim</h4><h5>Class of 2023</h5></div>
+          <div><h4>Michael Du</h4><h5>Class of 2024</h5></div>
+          <div><h4>Rahul Pal</h4><h5>Class of 2024</h5></div>
+          <div><h4>Tricia Jain</h4><h5>Class of 2024</h5></div>
+          <div><h4>Wendy Chau</h4><h5>Class of 2024</h5></div>
         </div>
       </div>
     <hr>
