@@ -1,20 +1,12 @@
 {
   "members": [
     {
-      "name": "Ali Shumaila",
-      "role": "Class of 2021"
-    },
-    {
       "name": "Amaya Hernandez",
       "role": "Class of 2022"
     },
     {
       "name": "Amy Zhou",
       "role": "Class of 2023"
-    },
-    {
-      "name": "Anjali Swamy",
-      "role": "Class of 2021"
     },
     {
       "name": "Brian Ling",
@@ -25,24 +17,12 @@
       "role": "Class of 2022"
     },
     {
-      "name": "Camryn Lopez",
-      "role": "Class of 2021"
-    },
-    {
       "name": "Emily Tran",
       "role": "Class of 2023"
     },
     {
       "name": "Emma Golub",
       "role": "Class of 2022"
-    },
-    {
-      "name": "Eric Estrada",
-      "role": "Class of 2021"
-    },
-    {
-      "name": "Haochen Sun",
-      "role": "Class of 2021"
     },
     {
       "name": "Jackie Lim",
@@ -77,16 +57,8 @@
       "role": "Class of 2022"
     },
     {
-      "name": "Peter Lee",
-      "role": "Class of 2021"
-    },
-    {
       "name": "Rahul Pal",
       "role": "Class of 2024"
-    },
-    {
-      "name": "Rodger Lee",
-      "role": "Class of 2021"
     },
     {
       "name": "Saed Osman",
@@ -95,10 +67,6 @@
     {
       "name": "Sophia Tan",
       "role": "Class of 2022"
-    },
-    {
-      "name": "Stacy Kong",
-      "role": "Class of 2021"
     },
     {
       "name": "Tiffany Choi",
@@ -112,9 +80,5 @@
       "name": "Wendy Chau",
       "role": "Class of 2024"
     },
-    {
-      "name": "Yuen Lenh",
-      "role": "Class of 2021"
-    }
   ]
 }
