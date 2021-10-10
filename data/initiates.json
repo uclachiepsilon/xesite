@@ -3,67 +3,62 @@
     {
       "title": "Orientation Meeting",
       "date": "10/20 @ 7 - 8 PM",
-      "description": "Zoom Link in Email"
+      "description": "BH 4238"
     },
     {
       "title": "Induction",
-      "date": "05/27 @ 7 - 8 PM",
-      "description": "Zoom Link in Email"
+      "date": "11/23 @ 7 - 8 PM",
+      "description": "BH 4275"
     }
+    {
+      "title": "Dues $125",
+      "date": "Send by 10/23 and 11/20",
+      "description": "Venmo in Detailed Instructions",
+      "link": "https://docs.google.com/document/d/1SzqavOlCgN1m0rxvuBasSwk61vZpC2QmMxwOTV-2VEA/edit?usp=sharing"
+    },
   ],
   "scholarship_taskcards": [
     {
       "title": "Graduate Program",
-      "date": "Submit by 04/30",
-      "description": "https://forms.gle/c3bWMZpEXh9ab1EE7"
+      "date": "Submit by 10/23",
+      "description": "https://forms.gle/MiwnFXdaMFinQCaC9"
     },
     {
       "title": "Upload an Exam",
-      "date": "Submit by 04/30",
-      "description": "https://forms.gle/sJd1zMcJAxa9Qsgm8"
+      "date": "Submit by 11/20",
+      "description": "https://forms.gle/BkKNN1THqKNfn8JR7"
     }
   ],
   "character_taskcards": [
     {
-      "title": "Dues $125",
-      "date": "Send by 04/23",
-      "description": "Venmo in Detailed Instructions",
-      "link": "https://docs.google.com/document/d/1w93Gs2KqP478XBGmMoSVxuLNkc8x5kXn4TMn3x9-zxQ/edit?usp=sharing"
+      "title": "Apply to a Scholarship",
+      "date": "Submit by 11/06",
+      "description": "Submission Link",
+      "link": "https://forms.gle/3KQuhk1oq5sa1tGN7"
     },
     {
-      "title": "Fundraiser Proposal",
-      "date": "Submit by 04/23",
+      "title": "Alumni/Professor Interview",
+      "date": "Submit by 11/20",
       "description": "Submission Link",
-      "link": "https://forms.gle/oTqnE7tnZMvT8XQj8"
-    },
-    {
-      "title": "Big Interview",
-      "date": "Submit by 05/21",
-      "description": "Submission Link",
-      "link": "https://forms.gle/xR9wXckbeK1QbE1t9"
+      "link": "https://forms.gle/ub9XvtXYEy89RcKE7"
     }
   ],
   "practicality_taskcards": [
     {
-      "title": "Candidate Interview",
-      "date": "04/15 @ 7 - 8 PM",
-      "description": "https://forms.gle/SSkyL8CRWgao57NK8"
+      "title": "Professional Development Event",
+      "date": "Submit by 11/06",
+      "description": "https://forms.gle/4gmZPCw5vAqT8NJz6"
     },
     {
-      "title": "XE Board App or Professor Interview",
-      "date": "Submit by 04/30",
-      "description": "https://forms.gle/J7yLWw7m83RHKFr86"
+      "title": "Internship/Job Application",
+      "date": "Submit by 11/20",
+      "description": "https://forms.gle/XA3MpvjQxipexCeD8"
     }
   ],
   "sociability_taskcards":[
     {
-      "title": "Game Night",
-      "date": "04/22 @ 7 - 8 PM",
-      "description": "Zoom Link in Email"
-    },
-    {
       "title": "Talent Show Video",
-      "date": "05/07 @ 7 - 8 PM",
+      "date": "11/19 @ 7 - 8 PM",
       "description": "Submit Videos by 04/29"
     }
   ]
